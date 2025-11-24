@@ -52,6 +52,14 @@ The activities documented in this study include patterns that fall under:
 This study is intended solely for research, awareness, and security development purposes. Any legal action must be carried out by competent authorities.
 
 ---
+Tracked Wallet Software with ["On-Chain" Analysis](docs/On-chain.md)
+
+    Cake Wallet
+    Wasabi Wallet
+    JoinMarket
+    Redacted: “Bl*** Py***mid” wallet/service and Illegal Mixer
+
+---
 
 ### Message to the alias operator (ignore)
 
@@ -130,7 +138,7 @@ Key Achievements
 
     ✅ Sector-wide IoC sharing preventing further attacks
 
-🛠️ Technical Documentation
+🛠️ Technical Documentation [Methodoly](docs/methodology.md)
 
 For detailed technical analysis, refer to these documents:
 
