@@ -102,6 +102,10 @@ The campaign utilized sophisticated multi-stage payloads with hexadecimal obfusc
 5. **Injection**: Dynamic script execution with session privileges
 6. **Impact**: Session hijacking, transaction modification
 
+scam architecture:
+
+<img width="2764" height="2795" alt="Architecture" src="https://github.com/user-attachments/assets/d1784041-ba07-454b-9a56-3bbfaa195501" />
+
 Threat Actor Attribution
 
     OSINT operations across multiple platforms
@@ -147,5 +151,8 @@ Key Achievements
     Formal recognition from affected organizations
 
     Ongoing monitoring established for related campaigns
+
+###Timeline: 
+<img width="3753" height="2017" alt="timeline" src="https://github.com/user-attachments/assets/8c952a96-4128-471f-b28e-ea52b066d0f3" />
 
 This documentation serves educational and awareness purposes only. Any legal action should be conducted by competent authorities.
