@@ -141,21 +141,6 @@ Key Achievements
 
     ✅ Sector-wide IoC sharing preventing further attacks
 
-📁 Project Structure
-text
-
-cryptocurrency-js-injection-investigation/
-├── README.md
-├── docs/
-│   ├── methodology.md           # Investigation methodology
-│   ├── osint-techniques.md      # OSINT techniques used
-│   ├── on-chain-analysis.md     # Blockchain forensic analysis
-│   ├── javascript-analysis.md   # Technical code analysis
-│   ├── case-flow.md            # Attack timeline and flow
-│   ├── glossary.md             # Terminology and definitions
-│   └── threat-intel.md         # Threat intelligence findings
-└── assets/                     # Diagrams and visual aids
-
 🛠️ Technical Documentation
 
 For detailed technical analysis, refer to these documents:
