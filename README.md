@@ -67,10 +67,7 @@ Tracked Wallet Software with ["On-Chain" Analysis](docs/On-chain.md)
 
 If the operator known as "*ed**" of the mentioned alias has accessed this report via URL mining or mention monitoring:
 
-**ed**, as previously discussed, the technical and human recommendation is simple:  
-Cease your activities and surrender to the competent authorities.
-
-Your infrastructure, mixing patterns, and on-chain flows have been mapped. Continuing these operations only increases your legal and operational exposure. Stealing from innocent people is not a way to succeed in life.
+Your infrastructure, mixing patterns, and on-chain flows have been mapped. Continuing these operations only increases your legal and operational exposure, the analysis reached a specific **real** person.
 
 ---
 
@@ -96,17 +93,14 @@ Impact: Full session compromise, transaction interception, fund theft potential
 Malware Analysis
 
 The campaign utilized sophisticated multi-stage payloads with hexadecimal obfuscation and dynamic script injection.
-    Distribution: Multiple posts with fake profit claims
 
-    Execution: Users tricked into pasting as javascript: malicious code
-
-    Obfuscation: Hexadecimal decoding reveals C2 servers
-
-    Payload Retrieval: Fetches malicious script from remote servers
-
-    Injection: Dynamic script execution with session privileges
-
-    Impact: Session hijacking, transaction modification
+### Attack Flow
+1. **Distribution**: Multiple posts with fake profit claims
+2. **Execution**: Users tricked into pasting as `javascript:` malicious code
+3. **Obfuscation**: Hexadecimal decoding reveals C2 servers
+4. **Payload Retrieval**: Fetches malicious script from remote servers  
+5. **Injection**: Dynamic script execution with session privileges
+6. **Impact**: Session hijacking, transaction modification
 
 Threat Actor Attribution
 
@@ -142,18 +136,6 @@ Key Achievements
 
 🛠️ Technical Documentation [Methodoly](docs/methodology.md)
 
-For detailed technical analysis, refer to these documents:
-
-    Methodology: Complete investigation methodology
-
-    JavaScript Analysis: Technical breakdown of malicious code
-
-    OSINT Techniques: Open-source intelligence methods
-
-    On-Chain Analysis: Blockchain investigation techniques
-
-    Threat Intelligence: Campaign analysis and patterns
-
 📊 Results & Impact
 
     3+ cryptocurrency exchanges protected
@@ -165,30 +147,5 @@ For detailed technical analysis, refer to these documents:
     Formal recognition from affected organizations
 
     Ongoing monitoring established for related campaigns
-
-🔒 Ethics & Security
-
-    No PII stored in this repository
-
-    No complete malicious domains included
-
-    No executable malicious code present
-
-    All content follows Responsible Disclosure guidelines
-
-    Research conducted anonymously via Tor network
-
-📧 Verification & Contact
-
-Given the significant impact of this case in the crypto ecosystem, legitimate organizations, technical recruiters, or security teams may request:
-
-    Additional technical information
-
-    Identity verification and research authenticity
-
-    Details about the applied methodology
-
-Contact for legitimate verification:
-blusterc@proton.me
 
 This documentation serves educational and awareness purposes only. Any legal action should be conducted by competent authorities.
