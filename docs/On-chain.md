@@ -11,8 +11,7 @@ Trace cryptocurrency transactions associated with the malicious campaign through
 - WalletExplorer.com  
 - OXT.me  
 
-**Tracked Wallet Software**
-- Cake Wallet  
+**Tracked Wallet Software** 
 - Wasabi Wallet  
 - JoinMarket  
 - *Redacted*: “Bl*** Py***mid” wallet/service and Illegal Mixer
@@ -108,4 +107,5 @@ The threat actor was successfully traced due to:
 
 ## Conclusion
 The on-chain analysis reveals a consistent financial pattern enabling high-confidence clustering and attribution. Despite the use of mixing tools, predictable behaviors, fee patterns, and timing correlations exposed the actor’s full transactional flow.
+
 
