@@ -104,7 +104,8 @@ The campaign utilized sophisticated multi-stage payloads with hexadecimal obfusc
 
 scam architecture:
 
-<img width="2764" height="2795" alt="Architecture" src="https://github.com/user-attachments/assets/d1784041-ba07-454b-9a56-3bbfaa195501" />
+<img width="4423" height="4584" alt="scam_architecture" src="https://github.com/user-attachments/assets/5a426f4d-6468-42dd-9635-42cbc63ec044" />
+
 
 Threat Actor Attribution
 
