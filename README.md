@@ -23,20 +23,6 @@ The study was conducted anonymously via the Tor network to ensure the integrity 
 
 ---
 
-## 🔍 NOTE ON ATTRIBUTION
-
-This report describes the infrastructure, technical behavior, and tactics associated with the operator known by the alias **"***ed*"** in crypto fraud communities.
-
-All conclusions are based on:
-
-- Traffic analysis  
-- Artifact correlation  
-- On-chain tracking  
-- Open-source investigation (OSINT)  
-
-No statement in this document should be interpreted as a direct legal accusation against any specific individual. Attribution refers exclusively to the alias and the observed operations, following threat intelligence standards.
-
----
 
 ## ⚖️ POTENTIAL LEGAL FRAMING
 
@@ -63,23 +49,16 @@ Tracked Wallet Software with ["On-Chain" Analysis](docs/On-chain.md)
 
 ---
 
-### Message to the alias operator (ignore)
-
-If the operator known as "*ed**" of the mentioned alias has accessed this report via URL mining or mention monitoring:
-
-Your infrastructure, mixing patterns, and on-chain flows have been mapped. Continuing these operations only increases your legal and operational exposure, the analysis reached a specific **real** person.
-
----
-
-# 🛡️ Ethics & Safety
+# Ethics & Safety
 
 - No PII is stored here  
 - No complete malicious domains are included  (the both)
 - No executable malicious code is present  
 - All content follows Responsible Disclosure guidelines
-🔍 Cryptocurrency JavaScript Injection Campaign Investigation
+  
+ Cryptocurrency JavaScript Injection Campaign Investigation
 
-📖 Overview
+ Overview
 
 A 5-month threat intelligence investigation into sophisticated social engineering campaigns distributing malicious JavaScript to cryptocurrency users, leading to transaction hijacking and credential theft across multiple exchanges.
 
@@ -89,7 +68,7 @@ Social Engineering Lure: Fake profit promises and "easy money" claims
 Specific Instruction: Attackers instruct victim to bypass security
 Impact: Full session compromise, transaction interception, fund theft potential
 
-🔧 Technical Investigation
+ Technical Investigation
 Malware Analysis
 
 The campaign utilized sophisticated multi-stage payloads with hexadecimal obfuscation and dynamic script injection.
@@ -141,7 +120,7 @@ Key Achievements
 
 🛠️ Technical Documentation [Methodoly](docs/methodology.md)
 
-📊 Results & Impact
+ Results & Impact
 
     3+ cryptocurrency exchanges protected
 
