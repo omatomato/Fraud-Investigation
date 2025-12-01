@@ -45,7 +45,7 @@ Tracked Wallet Software with ["On-Chain" Analysis](docs/On-chain.md)
     Cake Wallet
     Wasabi Wallet
     JoinMarket
-    Redacted: “Black Pyramid” wallet/service and Illegal Mixer
+    Redacted: “Black P*ramid” wallet/service and Illegal Mixer
 
 ---
 
